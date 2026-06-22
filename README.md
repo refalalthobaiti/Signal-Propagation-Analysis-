@@ -22,7 +22,7 @@ The simulation provides accurate path loss values. As expected, the path loss in
 
 *(The chart included in this repository visualizes this relationship.)*
 
-### 💻 How to Run
+### ⚙️ How to Run
 
 1. Ensure you have **MATLAB** installed.
 2. Download the `Wireless_Signal_Propagation_Analysis.m` file.
